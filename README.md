@@ -1,3 +1,3 @@
 # Intersection-Optimizer
-Download all files
-Open Main.py
+Download all files,
+Then run Main.py
