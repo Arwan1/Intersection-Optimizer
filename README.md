@@ -7,7 +7,7 @@ Right Arrow Key to add cars GOING right
 Left Arrow Key to add cars GOING Left
 Up Arrow Key to add cars GOING Up
 Down Arrow Key to add cars GOING Down
-If you want singular cars, use the virtual keynoard, however it is a bit laggy
+If you want singular cars, use the virtual keyboard, however it is a bit laggy
 
 Similarly: Use D to add ambulances going left, A for right, W for up, D for down
 
